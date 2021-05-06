@@ -1,0 +1,3 @@
+# ignore /.vscode except *.code-snippets
+/.vscode/*
+!/.vscode/*.code-snippets
