@@ -19,6 +19,9 @@
 		"prefix": "template",
 		"body": [
 		  "# ${1:year}/${2:month}/${3:day}",
+		  "|←|→|",
+		  "|:---|---:|",
+		  "go to the [previous page](url) | go to the [next page](url)",
 		  "",
 		  "## Univ.",
 		  "### courses",
@@ -40,7 +43,10 @@
 		  "",
 		  "## Else",
 		  "- no contents",
-		  ""
+		  "",
+		  "## MEMO",
+		  "- no contents",
+		  "",
 		],
 		"description": "template of daily log"
 	},
