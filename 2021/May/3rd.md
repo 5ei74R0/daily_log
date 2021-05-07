@@ -1,4 +1,7 @@
 # 2021/5/3
+|←|→|
+|:---|---:|
+go to the [previous page](./2nd.md) | go to the [next page](./4th.md)
 
 ## Univ.
 ### courses

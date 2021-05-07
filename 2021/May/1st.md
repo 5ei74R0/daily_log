@@ -1,4 +1,7 @@
 # 2021/5/1
+|←|→|
+|:---|---:|
+go to the [previous page](../April/30th.md) | go to the [next page](./2nd.md)
 
 ## Univ.
 ### courses
