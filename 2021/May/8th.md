@@ -1,7 +1,7 @@
 # 2021/5/8
 |←|→|
 |:---|---:|
-go to the [previous page](./7th.md) | go to the [next page](url)
+go to the [previous page](./7th.md) | go to the [next page](./9th.md)
 
 ## Univ.
 ### courses
