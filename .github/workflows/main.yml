@@ -19,5 +19,5 @@ jobs:
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         external_repository: OtsuKotsu/daily_log_publish
-        PUBLISH_BRANCH: main
-        PUBLISH_DIR: ./book
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./book/
