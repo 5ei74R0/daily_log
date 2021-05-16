@@ -21,7 +21,7 @@
 		  "# ${1:year}/${2:month}/${3:day}",
 		  "|←|→|",
 		  "|:---|---:|",
-		  "go to the [previous page](${4:url}) | go to the [next page](url)",
+		  "go to the [previous page](${4:path}.md) | go to the [next page](${5:path}.md)",
 		  "",
 		  "## Univ.",
 		  "### courses",
