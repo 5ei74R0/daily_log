@@ -33,11 +33,12 @@ go to the [previous page](./5th.md) | go to the [next page](./7th.md)
         - ARQ (ACK, ~~NAK(~rdt2.1)~~)
         - sequence number
         - time out
-    - rdt3.0 is slow -> next: Protocol pipelining
+    - rdt3.0 is too slow -> next: Protocol pipelining
 
 ### homework
 - [x] **Visual Computing**
-    - why should we use the low pass filter in down sampling?  
+    - Question.  
+      why should we use the low pass filter in down sampling?  
       -> Nyquist frequency becomes smaller than maximum frequency because of down sampling.  
       -> then aliasing occurs & the image transforms by mistake.  
       -> we should erase the high frequency in the original image before down sampling.  

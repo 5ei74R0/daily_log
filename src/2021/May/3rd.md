@@ -12,7 +12,7 @@ go to the [previous page](./2nd.md) | go to the [next page](./4th.md)
     - Great CG art was created now, I think. Maybe...
       ![POV-Ray CG Art](./img_folder/CG_ClassRoom.png)
 
-## Training
+## Exercise
 - no contents
 
 ## Reading papers, articles, books

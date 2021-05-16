@@ -10,7 +10,7 @@ go to the [previous page](../April/30th.md) | go to the [next page](./2nd.md)
 ### homework
 - POV-Ray
 
-## Training
+## Exercise
 - no contents
 
 ## Reading papers, articles, books

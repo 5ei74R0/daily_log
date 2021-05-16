@@ -30,4 +30,4 @@ go to the [previous page](./8th.md) | go to the [next page](./10th.md)
 - no contents
 
 ## MEMO
-- wanna learn about github actions
+- .oO wanna learn about github actions
