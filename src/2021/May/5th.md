@@ -11,7 +11,7 @@ go to the [previous page](./4th.md) | go to the [next page](./6th.md)
 - finished writing the report about my CG art written with POV-Ray 
     ![img](./img_folder/CG_ClassRoom.png)
 
-## Training
+## Exercise
 - no contents
 
 ## Reading papers, articles, books
@@ -19,6 +19,6 @@ go to the [previous page](./4th.md) | go to the [next page](./6th.md)
     - [Next](https://doc.rust-jp.rs/book-ja/ch07-05-separating-modules-into-different-files.html)
 
 ## Else
-- FINISH!!! (the Report)
-- btw, I could not solve any problems of competitive programming..
+- .oO FINISHED!!! (the Report)
+- .oO btw, I could not solve any problems of competitive programming..
 - cut my hair (didn't have my hair cut)

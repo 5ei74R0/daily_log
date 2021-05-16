@@ -11,11 +11,11 @@ go to the [previous page](./3rd.md) | go to the [next page](./5th.md)
 ### homework
 - wrote the report about the task drawing CG with POV-Ray
 
-## Training
+## Exercise
 - no contents
 
 ## Reading papers, articles, books
 - no contents
 
 ## Else
-- What a heavy work it is to write a report.
+- .oO What a heavy work it is to write a report.

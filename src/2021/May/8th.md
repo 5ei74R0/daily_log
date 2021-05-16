@@ -20,4 +20,4 @@ go to the [previous page](./7th.md) | go to the [next page](./9th.md)
 - club activity
 
 ## MEMO
-- tired..
+- .oO tired..

@@ -1,0 +1,33 @@
+[book]
+title = "Daily Log"
+authors = ["OtsuKotsu"]
+description = "just a tiny diary written about my daily activities like the classes in Univ.; reading papers, articles, or books"
+
+[output.html]
+default-theme = "Rust"
+preferred-dark-theme = "Coal"
+no-section-label = true
+mathjax-support = true
+curly-quotes = true
+copy-fonts = true
+git-repository-url = "https://github.com/OtsuKotsu/daily_log"
+git-repository-icon = "fa-github"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.playground]
+editable = false
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+copy-js = true

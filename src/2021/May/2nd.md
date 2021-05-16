@@ -10,14 +10,11 @@ go to the [previous page](./1st.md) | go to the [next page](./3rd.md)
 ### homework
 - POV-Ray
 
-## Training
-- [ ] solved the problems of competitive programming with C++
-    - [problem](url)
-        - [archived code](url)
+## Exercise
 - [x] solved the problems of competitive programming with Rust
     - [problem](https://atcoder.jp/contests/abc185/tasks/abc185_b)
         - [archived code](https://github.com/OtsuKotsu/training_rust/blob/main/archive/ABC/ABC185/b.rs)
-    - **theme** : use "struct"
+    - **theme** : use `struct`
 
 ## Reading papers, articles, books
 - read [the Rust Programming Language](https://doc.rust-jp.rs/book-ja/title-page.html)
@@ -25,4 +22,4 @@ go to the [previous page](./1st.md) | go to the [next page](./3rd.md)
 
 ## Else
 - cleaned my room
-- really tired
+- .oO really tired..
