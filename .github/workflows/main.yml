@@ -9,7 +9,7 @@ on:
 
 jobs:
   deploy:
-  name: publish on gh-pages
+    name: publish on gh-pages
     runs-on: ubuntu-18.04
     steps:
       - name: Get start
