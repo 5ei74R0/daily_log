@@ -2,22 +2,26 @@ name: CI/CD
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-    - "src/**"
-    - "book.toml"
+      - "src/**"
+      - "book.toml"
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+  name: publish on gh-pages
+    runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@v2
-    - name: Build
-      uses: ./.github/actions/build
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: OtsuKotsu/daily_log_publish
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./book
+      - name: Get start
+        uses: actions/checkout@v2
+
+      - name: Build
+        uses: ./.github/actions/build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: OtsuKotsu/daily_log_publish
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./book
