@@ -30,7 +30,7 @@ a > .hljs {
     display: flex;
     flex-wrap: wrap;
     background-color: var(--bg);
-    background-image: url(../../theme/img_folder/back_painting_upper_transparent.png);  /* add painting */
+    background-image: url(../img_folder/back_painting_upper_transparent.png);  /* add painting */
     background-size: cover;  /* add painting */
     background-attachment: fixed;  /* add painting */
     background-repeat: repeat-x;  /* add painting */
@@ -326,7 +326,7 @@ ul#searchresults span.teaser em {
     overscroll-behavior-y: contain;
     background-color: var(--sidebar-bg);
     color: var(--sidebar-fg);
-    background-image: url(../../theme/img_folder/back_paint_transparent.png);  /* add painting */
+    background-image: url(../img_folder/back_paint_transparent.png);  /* add painting */
     background-size: cover;
     background-attachment: fixed;  /* add painting */
     background-repeat: repeat-y;  /* add painting */

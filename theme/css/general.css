@@ -11,7 +11,7 @@ html {
     font-family: "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
-    background-image: url(../../theme/img_folder/back_painting.png);  /* painting */
+    background-image: url(../img_folder/back_painting.png);  /* painting */
     background-size: 165px auto;
     background-attachment: fixed;
     background-repeat: repeat-y;  /* make painting repetitive*/
