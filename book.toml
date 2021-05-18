@@ -10,6 +10,7 @@ no-section-label = true
 mathjax-support = true
 curly-quotes = true
 copy-fonts = true
+search = true
 git-repository-url = "https://github.com/OtsuKotsu/daily_log"
 git-repository-icon = "fa-github"
 
