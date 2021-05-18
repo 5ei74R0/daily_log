@@ -25,7 +25,7 @@
 		  "",
 		  "## Univ.",
 		  "### courses",
-		  "- ${0:no contents}",
+		  "#### ${0:course name}",
 		  "",
 		  "### homework",
 		  "- no contents",
