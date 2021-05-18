@@ -17,7 +17,7 @@ go to the [previous page](./6th.md) | go to the [next page](./8th.md)
 - [x] **Programming 2 (java)**
     - Questions & Coding Exercise
 
-## Exercise
+## Competitive Programming
 - [x] solved the problems of competitive programming with Rust
     - [problem](https://atcoder.jp/contests/abc186/tasks/abc186_c)
         - [archived code](https://github.com/OtsuKotsu/training_rust/blob/main/archive/ABC/ABC186/c.rs)

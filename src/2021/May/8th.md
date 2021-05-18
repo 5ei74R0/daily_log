@@ -10,7 +10,7 @@ go to the [previous page](./7th.md) | go to the [next page](./9th.md)
 ### homework
 - no contents
 
-## Exercise
+## Competitive Programming
 - no contents
 
 ## Reading papers, articles, books

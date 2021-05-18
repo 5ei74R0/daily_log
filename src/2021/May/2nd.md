@@ -10,7 +10,7 @@ go to the [previous page](./1st.md) | go to the [next page](./3rd.md)
 ### homework
 - POV-Ray
 
-## Exercise
+## Competitive Programming
 - [x] solved the problems of competitive programming with Rust
     - [problem](https://atcoder.jp/contests/abc185/tasks/abc185_b)
         - [archived code](https://github.com/OtsuKotsu/training_rust/blob/main/archive/ABC/ABC185/b.rs)

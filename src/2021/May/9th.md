@@ -12,7 +12,7 @@ go to the [previous page](./8th.md) | go to the [next page](./10th.md)
     - Compare 8 sorting algorithms by counting the number of copy or swap operations and timing the elapsed time.
     - Next : write a short report.
 
-## Exercise
+## Competitive Programming
 - no contents
 
 ## Reading papers, articles, books

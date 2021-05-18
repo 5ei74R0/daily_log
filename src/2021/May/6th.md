@@ -44,7 +44,7 @@ go to the [previous page](./5th.md) | go to the [next page](./7th.md)
       -> we should erase the high frequency in the original image before down sampling.  
       -> we can do this by using the low pass filter.
 
-## Exercise
+## Competitive Programming
 - [x] solved the problems of competitive programming with Rust
     - [problem](https://atcoder.jp/contests/abc186/tasks/abc186_d)
         - [archived code](https://github.com/OtsuKotsu/training_rust/blob/main/archive/ABC/ABC186/d.rs)

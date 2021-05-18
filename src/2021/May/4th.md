@@ -11,7 +11,7 @@ go to the [previous page](./3rd.md) | go to the [next page](./5th.md)
 ### homework
 - wrote the report about the task drawing CG with POV-Ray
 
-## Exercise
+## Competitive Programming
 - no contents
 
 ## Reading papers, articles, books

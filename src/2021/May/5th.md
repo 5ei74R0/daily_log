@@ -11,7 +11,7 @@ go to the [previous page](./4th.md) | go to the [next page](./6th.md)
 - finished writing the report about my CG art written with POV-Ray 
     ![img](./img_folder/CG_ClassRoom.png)
 
-## Exercise
+## Competitive Programming
 - no contents
 
 ## Reading papers, articles, books
