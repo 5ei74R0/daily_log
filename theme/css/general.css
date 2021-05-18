@@ -12,6 +12,8 @@ html {
     color: var(--fg);
     background-color: var(--bg);
     background-image: url(../../theme/img_folder/back_painting.png);  /* painting */
+    background-size: 165px auto;
+    background-attachment: fixed;
     background-repeat: repeat-y;  /* make painting repetitive*/
     text-size-adjust: none;
 }
