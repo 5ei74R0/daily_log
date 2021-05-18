@@ -34,6 +34,12 @@ root/
         +- README.md
         +- SUMMARY.md
 
+    +- theme/
+        +- css/
+        +- img_folder/
+        +- favicon.png
+        +- favicon.svg
+
     +- book.toml
     +- .github/
         +- actions/
