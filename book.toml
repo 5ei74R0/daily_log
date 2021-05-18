@@ -4,8 +4,8 @@ authors = ["OtsuKotsu"]
 description = "just a tiny diary written about my daily activities like the classes in Univ.; reading papers, articles, or books"
 
 [output.html]
-default-theme = "Rust"
-preferred-dark-theme = "Coal"
+default-theme = "Navy"
+preferred-dark-theme = "Navy"
 no-section-label = true
 mathjax-support = true
 curly-quotes = true
