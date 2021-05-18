@@ -30,9 +30,7 @@ a > .hljs {
     display: flex;
     flex-wrap: wrap;
     background-color: var(--bg);
-    /* background-image: url(../img_folder/back_painting_upper_transparent.png);  add painting */
-    /* background-size: auto;  add painting */
-    /* background-repeat: repeat-x;  add painting */
+    background-image: url(../img_folder/back_painting_upper_transparent.png);  /* add painting */
     border-bottom-color: var(--bg);
     border-bottom-width: 1px;
     border-bottom-style: solid;
