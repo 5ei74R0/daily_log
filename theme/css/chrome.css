@@ -31,8 +31,7 @@ a > .hljs {
     flex-wrap: wrap;
     background-color: var(--bg);
     background-image: url(../img_folder/back_painting_upper_transparent.png);  /* add painting */
-    background-size: cover;  /* add painting */
-    background-attachment: fixed;  /* add painting */
+    background-size: auto;  /* add painting */
     background-repeat: repeat-x;  /* add painting */
     border-bottom-color: var(--bg);
     border-bottom-width: 1px;
