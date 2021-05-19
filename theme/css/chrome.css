@@ -325,7 +325,7 @@ ul#searchresults span.teaser em {
     background-color: var(--sidebar-bg);
     color: var(--sidebar-fg);
     background-image: url(../img_folder/back_painting_ground.png);  /* add painting */
-    background-size: contain;
+    background-size: cover;
     background-repeat: repeat-y;  /* add painting */
 }
 .sidebar-resizing {
