@@ -5,12 +5,23 @@
 ## **Published at** [**here**](https://otsukotsu.github.io/daily_log_publish/)
 - use github pages
 
-### **github actions**
+### How is this page generated ?
+- use **mdBook** to generate html, css, js
+- published with [**GitHub Pages**](https://docs.github.com/en/pages)
+- leverage [**GitHub Actions**](https://github.com/features/actions) to reflect the changes to published web page (see following section)  
+    　  
+    <img src="./img_folder/github_actions.png" alt="github_actions" width="100"/>  
+
+- customize a little by myself
+    - the patterns in the background is drawn on my own  
+    ![painted mdBook](./src/img_folder/painted_favicon.png)  
+
+## **github actions**
 - build docker (`FROM rust:latest`)
 - run `mdbook build`
-- deploy the files generated in `./book/` into [OtsuKotsu/daily_log_publish](https://github.com/OtsuKotsu/daily_log_publish)
+- deploy the files generated in `./book/` into [**OtsuKotsu/daily_log_publish**](https://github.com/OtsuKotsu/daily_log_publish)
 
-### **structure**
+## **structure**
 ```
 root/
     +- src/
