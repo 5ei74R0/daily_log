@@ -51,7 +51,7 @@
 		"prefix": "problem_in_competitive_programming",
 		"body": [
 		  "- [x] [problem](${2:url})  ",
-		  "  [archived code: **${1:Lang}**](${3:url})",
+		  "  [archived code: **${1:Lang}**](${3:url})  ",
 		  "$0",
 		],
 		"description": "format to indicate urls of solved problem in competitive programming"
