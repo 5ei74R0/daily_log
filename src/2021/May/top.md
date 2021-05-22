@@ -8,3 +8,5 @@
 [***29th***](./29th.md)|[***30th***](./30th.md)|[***31st***](./31st.md)|
 
 ## Prominent Event
+- started to use mdbook to generate web page of this diary  
+  & published this diary by using GitHub Pages, & GitHub Actions

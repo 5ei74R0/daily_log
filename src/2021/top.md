@@ -2,7 +2,8 @@
 - .oO the year I started to write this diary.
 
 ## Prominent Event
-- Rejected at Hiring Committee.. (hiring process of G swe internship)
+- (Of course, ) started to write this diary.
+- Rejected at Hiring Committee.. (hiring process of G swe internship) so sad..
 
 ## courses in Univ.
 **Spring Semester**

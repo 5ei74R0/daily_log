@@ -8,4 +8,5 @@
 [***29th***](./29th.md)|[***30th***](./30th.md)|
 
 ## Prominent Event
+- started to write this diary.
 - Rejected at Hiring Committee.. (hiring process of G swe internship)
