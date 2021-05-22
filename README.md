@@ -20,7 +20,7 @@
 ## **github actions**
 - ~~build docker (`FROM rust:latest`)~~
 - ~~run `mdbook build`~~
-- install mdBook v0.4.5 from release page of mdBook.  
+- install mdBook v0.4.8 from release page of mdBook.  
   This is because mdBook v0.1.4~v0.4.4 has cross site scripting vulnerability.
   - see [here](https://blog.rust-lang.org/2021/01/04/mdbook-security-advisory.html)  
     and [CVE-2020-26297](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297)  
@@ -59,9 +59,6 @@ root/
 
     +- book.toml
     +- .github/
-        +- actions/
-            +- build/
-                +- Dockerfile
         +- workflows/
             +- main.yml
 
