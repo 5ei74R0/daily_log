@@ -3,6 +3,11 @@ title = "Daily Log"
 authors = ["OtsuKotsu"]
 description = "just a tiny diary written about my daily activities like the classes in Univ.; reading papers, articles, or books"
 
+[preprocessor.links]
+# set the renderers this preprocessor will run for
+renderers = ["html"]
+some_extra_feature = true
+
 [output.html]
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
@@ -22,8 +27,8 @@ editable = false
 
 [output.html.search]
 enable = true
-limit-results = 30
-teaser-word-count = 30
+limit-results = 15
+teaser-word-count = 15
 use-boolean-and = true
 boost-title = 2
 boost-hierarchy = 1
