@@ -10,11 +10,11 @@
 - published with [**GitHub Pages**](https://docs.github.com/en/pages)
 - leverage [**GitHub Actions**](https://github.com/features/actions) to reflect the changes to published web page (see following section)  
     　  
-    <img src="./src/img_folder/github_actions.png" alt="github_actions" width="100"/>  
+  <img src="./src/img_folder/github_actions.png" alt="github_actions" width="100"/>  
 
-- customize a little by myself
-    - the patterns in the background is drawn on my own  
-    ![painted mdBook](./src/img_folder/painted_favicon.png)  
+- customize a little by myself  
+  the patterns in the background is drawn on my own  
+  ![painted mdBook](./src/img_folder/painted_favicon.png)  
 
 ## **github actions**
 - build docker (`FROM rust:latest`)
