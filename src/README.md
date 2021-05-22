@@ -16,6 +16,7 @@
 
 - customize a little by myself  
   the patterns in the background is drawn on my own  
+    
   ![painted mdBook](./img_folder/painted_favicon.png)  
-  
+
 - see [**the Project Repository**](https://github.com/OtsuKotsu/daily_log)
