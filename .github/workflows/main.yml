@@ -15,13 +15,10 @@ jobs:
       - name: Get start
         uses: actions/checkout@v2
 
-      # - name: Build
-      #   uses: ./.github/actions/build
-
-      - name: install mdbook
+      - name: install mdbook 0.4.5
         run: |
           mkdir mdbook
-          curl -Lf https://github.com/rust-lang/mdBook/releases/download/v0.4.5/mdbook-v0.4.5-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=./mdbook
+          curl -Lf https://github.com/rust-lang/mdBook/releases/download/v0.4.5/mdbook-v0.4.8-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
 
       - name: mdbook build
