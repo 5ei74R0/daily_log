@@ -27,8 +27,8 @@ editable = false
 
 [output.html.search]
 enable = true
-limit-results = 15
-teaser-word-count = 15
+limit-results = 30
+teaser-word-count = 30
 use-boolean-and = true
 boost-title = 2
 boost-hierarchy = 1
