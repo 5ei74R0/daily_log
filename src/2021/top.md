@@ -4,6 +4,8 @@
 ## Prominent Event
 - (Of course, ) started to write this diary.
 - Rejected at Hiring Committee.. (hiring process of G swe internship) so sad..
+- started to use mdbook to generate web page of this diary  
+  & published this diary by using GitHub Pages, & GitHub Actions
 
 ## courses in Univ.
 **Spring Semester**
