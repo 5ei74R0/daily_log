@@ -8,7 +8,7 @@ go to the [previous page](./4th.md) | go to the [next page](./6th.md)
 - no contents
 
 ### homework
-- finished writing the report about my CG art written with POV-Ray 
+- finished writing the report on my CG art written with POV-Ray 
     ![img](./img_folder/CG_ClassRoom.png)
 
 ## Competitive Programming

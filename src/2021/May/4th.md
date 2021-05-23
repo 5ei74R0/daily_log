@@ -9,7 +9,7 @@ go to the [previous page](./3rd.md) | go to the [next page](./5th.md)
 - no contents
 
 ### homework
-- wrote the report about the task drawing CG with POV-Ray
+- wrote the report on the task drawing CG with POV-Ray
 
 ## Competitive Programming
 - no contents
