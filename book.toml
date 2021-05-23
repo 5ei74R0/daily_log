@@ -17,6 +17,8 @@ curly-quotes = true
 copy-fonts = true
 git-repository-url = "https://github.com/OtsuKotsu/daily_log"
 git-repository-icon = "fa-github"
+input-404 = "404.md"
+site-url: "https://otsukotsu.github.io/daily_log_publish/"
 
 [output.html.fold]
 enable = true

@@ -2,7 +2,7 @@
 - just a tiny diary. 
 - written about my daily activities like the classes in Univ.; reading papers, articles, or books..
 
-## **Published at** [**here**](https://otsukotsu.github.io/daily_log_publish/)
+## **Published at** [**Here**](https://otsukotsu.github.io/daily_log_publish/)
 - use github pages
 
 ### How is this page generated ?
@@ -50,6 +50,7 @@ root/
         :
         +- README.md
         +- SUMMARY.md
+        +- 404.md
 
     +- theme/
         +- css/
