@@ -30,5 +30,5 @@ go to the [previous page](./6th.md) | go to the [next page](./8th.md)
     - added the references to the previous page and the next page in each page.
     - updated the template
 
-## MEMO
+## Memo, Feelings, Thoughts
 - no contents

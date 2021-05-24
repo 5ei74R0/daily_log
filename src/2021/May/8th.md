@@ -19,5 +19,5 @@ go to the [previous page](./7th.md) | go to the [next page](./9th.md)
 ## Else
 - club activity
 
-## MEMO
+## Memo, Feelings, Thoughts
 - .oO tired..

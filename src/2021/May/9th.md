@@ -29,5 +29,5 @@ go to the [previous page](./8th.md) | go to the [next page](./10th.md)
 ## Else
 - no contents
 
-## MEMO
+## Memo, Feelings, Thoughts
 - .oO wanna learn about github actions
