@@ -15,7 +15,7 @@ html {
 }
 
 body::before {
-    background: url(../img_folder/back_painting_transparent.png) repeat-y;
+    background: center / 110% repeat-y url(../img_folder/back_painting_ground2.png);
     content: "";
     display: block;
     position: fixed;
