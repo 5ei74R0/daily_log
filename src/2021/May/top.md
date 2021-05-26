@@ -7,6 +7,6 @@
 [***22nd***](./22nd.md)|[***23rd***](./23rd.md)|[***24th***](./24th.md)|[***25th***](./25th.md)|[***26th***](./26th.md)|[***27th***](./27th.md)|[***28th***](./28th.md)|
 [***29th***](./29th.md)|[***30th***](./30th.md)|[***31st***](./31st.md)|
 
-## Prominent Event
+## Prominent Events
 - started to use mdbook to generate web page of this diary  
   & published this diary by using GitHub Pages, & GitHub Actions

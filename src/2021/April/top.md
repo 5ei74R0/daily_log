@@ -7,6 +7,6 @@
 ***22nd***|***23rd***|***24th***|***25th***|***26th***|[***27th***](./27th.md)|[***28th***](./28th.md)|
 [***29th***](./29th.md)|[***30th***](./30th.md)|
 
-## Prominent Event
+## Prominent Events
 - started to write this diary.
 - Rejected at Hiring Committee.. (hiring process of G swe internship)
