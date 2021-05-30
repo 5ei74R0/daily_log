@@ -29,10 +29,10 @@ a > .hljs {
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    background-color: var(--bg);
+    background-color: var(--menubar-bg);
     background-image: url(../img_folder/back_painting_ground.png);  /* add painting */
     background-size: cover;
-    border-bottom-color: var(--bg);
+    border-bottom-color: var(--menubar-bg);
     border-bottom-width: 1px;
     border-bottom-style: solid;
 }
