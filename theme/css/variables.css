@@ -15,7 +15,6 @@
     --fg: #c5c5c5;
 
     --menubar-bg: hsl(210, 25%, 8%);
-    --menubar-fg: #c5c5c5;
 
     --sidebar-bg: #14191f;
     --sidebar-fg: #c8c9db;
@@ -25,7 +24,7 @@
 
     --scrollbar: var(--sidebar-fg);
 
-    --icons: #737480;
+    --icons: #c5c5c5;  /* same as --fg */
     --icons-hover: #b7b9cc;
 
     --links: #0096cf;
@@ -58,7 +57,6 @@
     --fg: #98a3ad;
 
     --menubar-bg: hsl(200, 7%, 8%);
-    --menubar-fg: #98a3ad;
 
     --sidebar-bg: #292c2f;
     --sidebar-fg: #a1adb8;
@@ -68,8 +66,7 @@
 
     --scrollbar: var(--sidebar-fg);
 
-    /* --icons: #43484d; */
-    --icons: #60676e;
+    --icons: #98a3ad;  /* same as --fg */
     --icons-hover: #b3c0cc;
 
     --links: #2b79a2;
@@ -102,7 +99,6 @@
     --fg: hsl(0, 0%, 0%);
 
     --menubar-bg: hsl(0, 0%, 0%);
-    --menubar-fg: #fafafa;
 
     --sidebar-bg: #fafafa;
     --sidebar-fg: hsl(0, 0%, 0%);
@@ -146,7 +142,6 @@
     --fg: #bcbdd0;
 
     --menubar-bg: hsl(226, 23%, 11%);
-    --menubar-fg: #bcbdd0;
 
     --sidebar-bg: #282d3f;
     --sidebar-fg: #c8c9db;
@@ -156,7 +151,7 @@
 
     --scrollbar: var(--sidebar-fg);
 
-    --icons: #737480;
+    --icons: #bcbdd0;  /* same as --fg */
     --icons-hover: #b7b9cc;
 
     --links: #2b79a2;
@@ -189,7 +184,6 @@
     --fg: #262625;
 
     --menubar-bg: #3b2e2a;
-    --menubar-fg: #c8c9db;
 
     --sidebar-bg: #3b2e2a;
     --sidebar-fg: #c8c9db;
