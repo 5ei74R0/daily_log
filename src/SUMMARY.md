@@ -3,7 +3,7 @@
 # 2021
 - [top 2021](./2021/top.md)
     - [April](./2021/April/top.md)
-        - [28th](./2021/April/27th.md)
+        - [27th](./2021/April/27th.md)
         - [28th](./2021/April/28th.md)
         - [29th](./2021/April/29th.md)
         - [30th](./2021/April/30th.md)
@@ -40,3 +40,5 @@
         - [30th](./2021/May/30th.md)
         - [31st](./2021/May/31st.md)
     - [June](./2021/June/top.md)
+        - [1st](./2021/June/1st.md)
+
