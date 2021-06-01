@@ -14,7 +14,7 @@
     --bg: hsl(210, 25%, 8%);
     --fg: #c5c5c5;
 
-    --menubar-bg: hsl(210, 25%, 8%);
+    --menubar-bg: hsl(213, 22%, 21%);
 
     --sidebar-bg: #14191f;
     --sidebar-fg: #c8c9db;
@@ -56,7 +56,7 @@
     --bg: hsl(200, 7%, 8%);
     --fg: #98a3ad;
 
-    --menubar-bg: hsl(200, 7%, 8%);
+    --menubar-bg: hsl(213, 22%, 21%);
 
     --sidebar-bg: #292c2f;
     --sidebar-fg: #a1adb8;
@@ -101,7 +101,7 @@
     --menubar-bg: hsl(0, 0%, 0%);
 
     --sidebar-bg: #fafafa;
-    --sidebar-fg: hsl(0, 0%, 0%);
+    --sidebar-fg: #333333;
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
     --sidebar-spacer: #f4f4f4;
@@ -141,7 +141,7 @@
     --bg: hsl(226, 23%, 11%);
     --fg: #bcbdd0;
 
-    --menubar-bg: hsl(226, 23%, 11%);
+    --menubar-bg: hsl(213, 22%, 21%);
 
     --sidebar-bg: #282d3f;
     --sidebar-fg: #c8c9db;

@@ -17,7 +17,6 @@ a:visited,
 a > .hljs {
     color: var(--links);
 }
-
 /* Menu Bar */
 
 #menu-bar,
@@ -29,12 +28,12 @@ a > .hljs {
     position: relative;
     display: flex;
     flex-wrap: wrap;
+    /* background-color: var(--bg); */
     background-color: var(--menubar-bg);
-    background-image: url(../img_folder/back_painting_ground.png);  /* add painting */
-    background-size: cover;
-    border-bottom-color: var(--menubar-bg);
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
+    opacity: 0.9;
+    margin: 0 5px 0 5px;
+    /* border-radius: 100px; */
+    border-radius: 10px;
 }
 #menu-bar.sticky,
 .js #menu-bar-hover-placeholder:hover + #menu-bar,
@@ -42,12 +41,12 @@ a > .hljs {
 .js.sidebar-visible #menu-bar {
     position: -webkit-sticky;
     position: sticky;
-    top: 0 !important;
+    top: 10px !important;
 }
 #menu-bar-hover-placeholder {
     position: sticky;
     position: -webkit-sticky;
-    top: 0;
+    top: 10px;
     height: var(--menu-bar-height);
 }
 #menu-bar.bordered {
@@ -57,7 +56,7 @@ a > .hljs {
     position: relative;
     padding: 0 8px;
     z-index: 10;
-    line-height: var(--menu-bar-height);
+    line-height: 30px;
     cursor: pointer;
     transition: color 0.5s;
 }
@@ -125,7 +124,6 @@ a > .hljs {
 .mobile-nav-chapters i:hover {
     color: var(--icons-hover);
 }
-
 /* Nav Icons */
 
 .nav-chapters {
