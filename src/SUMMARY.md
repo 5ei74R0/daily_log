@@ -41,4 +41,4 @@
         - [31st](./2021/May/31st.md)
     - [June](./2021/June/top.md)
         - [1st](./2021/June/1st.md)
-
+        - [2nd](./2021/June/2nd.md)
