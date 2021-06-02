@@ -1,5 +1,5 @@
 # What's this ?
-- **Just a tiny(?) Diary.** 
+- **Just a tiny diary.** 
 - Written about my daily activities like the classes in Univ.; reading papers, articles, or books..
 
 ## Quick Access
