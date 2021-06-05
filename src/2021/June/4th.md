@@ -25,4 +25,4 @@ go to the [previous day](./3rd.md) | go to the [next day](./5th.md)
 - no contents
 
 ## Memo, Feelings, Thoughts
-- ゞ(⌒(\_´×ω×`)\_
+<p style="padding-left: 5%; font-size: 30px">&#x1f92f;</p>
