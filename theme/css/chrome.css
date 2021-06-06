@@ -322,7 +322,7 @@ ul#searchresults span.teaser em {
     overscroll-behavior-y: contain;
     background-color: var(--sidebar-bg);
     color: var(--sidebar-fg);
-    background-image: url(../img_folder/back_painting_ground.png);  /* add painting */
+    background-image: url(../img_folder/bg_stardust_weak.png);  /* add painting */
     background-size: cover;
     background-repeat: repeat-y;  /* add painting */
 }
