@@ -45,3 +45,4 @@
         - [3rd](./2021/June/3rd.md)
         - [4th](./2021/June/4th.md)
         - [5th](./2021/June/5th.md)
+        - [6th](./2021/June/6th.md)
