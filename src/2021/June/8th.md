@@ -22,6 +22,7 @@ go to the [previous day](./7th.md) | go to the [next day](./9th.md)
 
 ## Other Activities
 - took a walk
+- build a web page
 
 ### Reading papers, articles, books
 - read [ゼロから始めてオフライン強化学習とConservative Q-Learningを理解する](https://qiita.com/aiueola/items/90f635200d808f904daf) (haven't finished)

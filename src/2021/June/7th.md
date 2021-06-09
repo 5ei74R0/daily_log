@@ -11,6 +11,7 @@ go to the [previous day](./6th.md) | go to the [next day](./8th.md)
 ### homework
 
 ## Other Activities
+- build a web page
 
 ### Reading papers, articles, books
 - no contents
