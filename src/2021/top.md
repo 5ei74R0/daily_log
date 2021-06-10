@@ -6,6 +6,8 @@
 - Rejected at Hiring Committee.. (hiring process of G swe internship) so sad..
 - started to use mdbook to generate web page of this diary  
   & published this diary by using GitHub Pages, & GitHub Actions
+- published [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/)
+
 
 ## courses in Univ.
 **Spring Semester**
