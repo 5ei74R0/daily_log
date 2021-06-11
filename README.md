@@ -13,7 +13,7 @@
   <img src="./src/img_folder/github_actions.png" alt="github_actions" width="100"/>  
 
 - customize a little by myself  
-  the patterns in the background is drawn on my own  
+  the patterns in the background & favicon is designed & drawn on my own  
     
   ![my-favicon](./src/img_folder/favicon.png)  
 
