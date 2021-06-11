@@ -16,8 +16,8 @@
   <img src="./img_folder/github_actions.png" alt="github_actions" width="100"/>  
 
 - customize a little by myself  
-  the patterns in the background is drawn on my own  
+  the patterns in the background & favicon is designed and drawn on my own  
     
-  ![painted mdBook](./img_folder/painted_favicon.png)  
+  ![my-favicon](./img_folder/favicon.png)  
 
 - see [**the Project Repository**](https://github.com/OtsuKotsu/daily_log)

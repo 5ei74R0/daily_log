@@ -15,7 +15,7 @@
 - customize a little by myself  
   the patterns in the background is drawn on my own  
     
-  ![painted mdBook](./src/img_folder/painted_favicon.png)  
+  ![my-favicon](./src/img_folder/favicon.png)  
 
 ## **github actions**
 - ~~build docker (`FROM rust:latest`)~~
