@@ -5,7 +5,7 @@
 [***8th***](./8th.md)|[***9th***](./9th.md)|[***10th***](./10th.md)|[***11th***](./11th.md)|[***12th***](./12th.md)|[***13th***](./13th.md)|[***14th***](./14th.md)|
 [***15th***](./15th.md)|[***16th***](./16th.md)|[***17th***](./17th.md)|[***18th***](./18th.md)|[***19th***](./19th.md)|[***20th***](./20th.md)|[***21st***](./21st.md)|
 [***22nd***](./22nd.md)|[***23rd***](./23rd.md)|[***24th***](./24th.md)|[***25th***](./25th.md)|[***26th***](./26th.md)|[***27th***](./27th.md)|[***28th***](./28th.md)|
-[***29th***](./29th.md)|[***30th***](./30th.md)|[***31st***](./31st.md)|
+[***29th***](./29th.md)|[***30th***](./30th.md)|
 
 ## Prominent Events & Works
 - published [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/)
