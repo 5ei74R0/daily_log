@@ -1,4 +1,4 @@
-# What's this ?
+# What is it ?
 - **Just a tiny diary.** 
 - Written about my daily activities like the classes in Univ.; reading papers, articles, or books..
 
