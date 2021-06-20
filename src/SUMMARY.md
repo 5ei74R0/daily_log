@@ -59,3 +59,4 @@
         - [17th](./2021/June/17th.md)
         - [18th](./2021/June/18th.md)
         - [19th](./2021/June/19th.md)
+        - [20th](./2021/June/20th.md)
