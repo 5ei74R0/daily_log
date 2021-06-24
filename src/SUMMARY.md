@@ -63,3 +63,4 @@
         - [21st](./2021/June/21st.md)
         - [22nd](./2021/June/22nd.md)
         - [23rd](./2021/June/23rd.md)
+        - [24th](./2021/June/24th.md)
