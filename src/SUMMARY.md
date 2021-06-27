@@ -66,3 +66,4 @@
         - [24th](./2021/June/24th.md)
         - [25th](./2021/June/25th.md)
         - [26th](./2021/June/26th.md)
+        - [27th](./2021/June/27th.md)
