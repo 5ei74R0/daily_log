@@ -69,3 +69,6 @@
         - [27th](./2021/June/27th.md)
         - [28th](./2021/June/28th.md)
         - [29th](./2021/June/29th.md)
+        - [30th](./2021/June/30th.md)
+    - [July](./2021/July/top.md)
+        - [1st](./2021/July/1st.md)
