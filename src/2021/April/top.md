@@ -10,4 +10,4 @@
 ## Prominent Events & Works
 - started to write this diary.
 - Rejected at Hiring Committee.. (hiring process of G swe internship)  
-  *.oO have to develop my skills more and more*
+  *.oO ( have to develop my skills more and more )*
