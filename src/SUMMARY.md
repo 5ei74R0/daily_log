@@ -77,3 +77,4 @@
         - [4th](./2021/July/4th.md)
         - [5th](./2021/July/5th.md)
         - [6th](./2021/July/6th.md)
+        - [7th](./2021/July/7th.md)
