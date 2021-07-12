@@ -82,3 +82,4 @@
         - [9th](./2021/July/9th.md)
         - [10th](./2021/July/10th.md)
         - [11th](./2021/July/11th.md)
+        - [12th](./2021/July/12th.md)
