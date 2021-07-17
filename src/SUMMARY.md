@@ -86,3 +86,4 @@
         - [13th](./2021/July/13th.md)
         - [14th](./2021/July/14th.md)
         - [15th](./2021/July/15th.md)
+        - [16th](./2021/July/16th.md)
