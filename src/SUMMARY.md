@@ -88,3 +88,4 @@
         - [15th](./2021/July/15th.md)
         - [16th](./2021/July/16th.md)
         - [17th](./2021/July/17th.md)
+        - [18th](./2021/July/18th.md)
