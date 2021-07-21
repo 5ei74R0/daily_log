@@ -91,4 +91,4 @@
         - [18th](./2021/July/18th.md)
         - [19th](./2021/July/19th.md)
         - [20th](./2021/July/20th.md)
-        - [21th](./2021/July/21th.md)
+        - [21st](./2021/July/21st.md)
