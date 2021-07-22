@@ -1,4 +1,4 @@
-# 2021/7/1 (THI)
+# 2021/7/1 (THU)
 |←|→|
 |:---|---:|
 go to the [previous day](../June/30th.md) | go to the [next day](./2nd.md)
