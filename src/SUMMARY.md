@@ -95,3 +95,4 @@
         - [22nd](./2021/July/22nd.md)
         - [23rd](./2021/July/23rd.md)
         - [24th](./2021/July/24th.md)
+        - [25th](./2021/July/25th.md)
