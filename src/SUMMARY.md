@@ -97,3 +97,4 @@
         - [24th](./2021/July/24th.md)
         - [25th](./2021/July/25th.md)
         - [26th](./2021/July/26th.md)
+        - [27th](./2021/July/27th.md)
