@@ -6,7 +6,7 @@ go to the [previous day](./7th.md) | go to the [next day](./9th.md)
 ## Univ.
 ### courses
 #### *Computer Architecture*
-- Velilog
+- Verilog
 - instruction pipelining
 
 #### *Algorithm*
