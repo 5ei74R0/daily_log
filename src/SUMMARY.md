@@ -100,3 +100,4 @@
         - [27th](./2021/July/27th.md)
         - [28th](./2021/July/28th.md)
         - [29th](./2021/July/29th.md)
+        - [30th](./2021/July/30th.md)
