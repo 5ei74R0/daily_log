@@ -104,3 +104,4 @@
         - [31st](./2021/July/31st.md)
     - [August](./2021/August/top.md)
         - [1st](./2021/August/1st.md)
+        - [2nd](./2021/August/2nd.md)
