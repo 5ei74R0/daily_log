@@ -110,3 +110,4 @@
         - [5th](./2021/August/5th.md)
         - [6th](./2021/August/6th.md)
         - [7th](./2021/August/7th.md)
+        - [8th](./2021/August/8th.md)
