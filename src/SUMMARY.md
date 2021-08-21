@@ -122,3 +122,4 @@
         - [17th](./2021/August/17th.md)
         - [18th](./2021/August/18th.md)
         - [19th](./2021/August/19th.md)
+        - [20th](./2021/August/20th.md)
