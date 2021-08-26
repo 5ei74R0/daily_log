@@ -128,3 +128,4 @@
         - [23rd](./2021/August/23rd.md)
         - [24th](./2021/August/24th.md)
         - [25th](./2021/August/25th.md)
+        - [26th](./2021/August/26th.md)
