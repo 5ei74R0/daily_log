@@ -133,6 +133,6 @@
         - [28th](./2021/August/28th.md)
         - [29th](./2021/August/29th.md)
         - [30th](./2021/August/30th.md)
-        - [31th](./2021/August/31th.md)
+        - [31st](./2021/August/31st.md)
     - [September](./2021/September/top.md)
         - [1st](./2021/September/1st.md)
