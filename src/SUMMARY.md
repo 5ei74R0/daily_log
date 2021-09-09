@@ -142,3 +142,4 @@
         - [5th](./2021/September/5th.md)
         - [6th](./2021/September/6th.md)
         - [7th](./2021/September/7th.md)
+        - [8th](./2021/September/8th.md)
