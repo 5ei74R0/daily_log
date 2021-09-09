@@ -7,7 +7,7 @@
   *.oO ( have to develop my skills more and more )*
 - started to use mdbook to generate web page of this diary  
   & published this diary by using GitHub Pages, & GitHub Actions
-- published [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/)
+- published ~~my website (profile page)~~ <!-- [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/) -->
 
 
 ## courses in Univ.

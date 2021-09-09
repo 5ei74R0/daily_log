@@ -8,4 +8,4 @@
 [***29th***](./29th.md)|[***30th***](./30th.md)|
 
 ## Prominent Events & Works
-- published [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/)
+- published ~~my website (profile page)~~ <!-- [my website (profile page)](https://otsukotsu.github.io/OtsuKotsuIO/) -->
