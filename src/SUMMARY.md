@@ -160,3 +160,4 @@
         - [23rd](./2021/September/23rd.md)
         - [24th](./2021/September/24th.md)
         - [25th](./2021/September/25th.md)
+        - [26th](./2021/September/26th.md)
