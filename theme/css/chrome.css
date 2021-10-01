@@ -266,7 +266,7 @@ mark.fade-out {
 
 #searchbar {
     width: 100%;
-    margin: 5px auto 0px auto;
+    margin: 12px auto 0px auto;
     padding: 10px 16px;
     transition: box-shadow 300ms ease-in-out;
     border: 1px solid var(--searchbar-border-color);
