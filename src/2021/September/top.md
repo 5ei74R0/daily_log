@@ -8,4 +8,4 @@
 [***29th***](./29th.md)|[***30th***](./30th.md)|
 
 ## Prominent Events
-- Summer Internship in the lab. of Nissan Motor
+- Summer Internship in the ~ lab.

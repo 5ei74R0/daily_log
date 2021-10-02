@@ -1,4 +1,4 @@
-# *August 2021*
+# *October 2021*
 |**date**|||||||
 |---:|---:|---:|---:|---:|---:|---:|
 [***1st***](./1st.md)|[***2nd***](./2nd.md)|[***3rd***](./3rd.md)|[***4th***](./4th.md)|[***5th***](./5th.md)|[***6th***](./6th.md)|[***7th***](./7th.md)|
@@ -8,4 +8,3 @@
 [***29th***](./29th.md)|[***30th***](./30th.md)|[***31st***](./31st.md)|
 
 ## Prominent Events
-- Summer Internship in the ~ lab.
