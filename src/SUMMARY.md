@@ -167,3 +167,4 @@
         - [30th](./2021/September/30th.md)
     - [October](./2021/October/top.md)
         - [1st](./2021/October/1st.md)
+        - [2nd](./2021/October/2nd.md)
