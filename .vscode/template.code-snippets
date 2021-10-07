@@ -12,7 +12,7 @@
 		  "#### *${0:course name}*",
 		  "",
 		  "### homework",
-		  "#### *course name*",
+		  "#### *${0:course name}*",
 		  "",
 		  "## Other Activities",
 		  "",
