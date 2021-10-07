@@ -18,7 +18,7 @@ go to the [previous day](./5th.md) | go to the [next day](./7th.md)
 
 ## Other Activities
 - worked in an internship
-- think about the path
+- thought about the path
 
 ### Reading papers, articles, books, codes
 - surfed on papers with code

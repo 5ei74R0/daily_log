@@ -172,3 +172,4 @@
         - [4th](./2021/October/4th.md)
         - [5th](./2021/October/5th.md)
         - [6th](./2021/October/6th.md)
+        - [7th](./2021/October/7th.md)
