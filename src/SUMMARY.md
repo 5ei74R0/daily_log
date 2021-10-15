@@ -179,3 +179,4 @@
         - [11th](./2021/October/11th.md)
         - [12th](./2021/October/12th.md)
         - [13th](./2021/October/13th.md)
+        - [14th](./2021/October/14th.md)
