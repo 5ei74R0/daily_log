@@ -180,3 +180,8 @@
         - [12th](./2021/October/12th.md)
         - [13th](./2021/October/13th.md)
         - [14th](./2021/October/14th.md)
+        - [15th](./2021/October/15th.md)
+        - [16th](./2021/October/16th.md)
+        - [17th](./2021/October/17th.md)
+        - [18th](./2021/October/18th.md)
+        - [19th](./2021/October/19th.md)
