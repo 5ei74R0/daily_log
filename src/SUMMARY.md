@@ -185,3 +185,5 @@
         - [17th](./2021/October/17th.md)
         - [18th](./2021/October/18th.md)
         - [19th](./2021/October/19th.md)
+        - [20th](./2021/October/20th.md)
+        - [21st](./2021/October/21st.md)
