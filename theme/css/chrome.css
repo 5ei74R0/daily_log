@@ -36,12 +36,15 @@ a > .hljs {
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    /* background-color: var(--bg); */
     background-color: var(--menubar-bg);
-    opacity: 0.9;
     margin: 0 5px 0 5px;
-    /* border-radius: 100px; */
-    border-radius: 10px;
+    border-radius: 0px 0px 10px 10px;
+
+    /* additional effects */
+    background: rgba( 255, 255, 255, 0.2 );
+    backdrop-filter: blur( 5px );
+    -webkit-backdrop-filter: blur( 5px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 #menu-bar.sticky,
 .js #menu-bar-hover-placeholder:hover + #menu-bar,
@@ -49,12 +52,12 @@ a > .hljs {
 .js.sidebar-visible #menu-bar {
     position: -webkit-sticky;
     position: sticky;
-    top: 10px !important;
+    top: 0px !important;
 }
 #menu-bar-hover-placeholder {
     position: sticky;
     position: -webkit-sticky;
-    top: 10px;
+    top: 0px;
     height: var(--menu-bar-height);
 }
 #menu-bar.bordered {
@@ -176,11 +179,21 @@ a > .hljs {
 
 .previous {
     float: left;
+
+    /* additional effects */
+    background: rgba( 255, 255, 255, 0.05 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
 }
 
 .next {
     float: right;
     right: var(--page-padding);
+
+    /* additional effects */
+    background: rgba( 255, 255, 255, 0.05 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
 }
 
 @media only screen and (max-width: 1080px) {
