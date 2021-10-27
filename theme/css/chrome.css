@@ -38,7 +38,7 @@ a > .hljs {
     flex-wrap: wrap;
     background-color: var(--menubar-bg);
     margin: 0 5px 0 5px;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
 
     /* additional effects */
     background: rgba( 255, 255, 255, 0.2 );
@@ -59,9 +59,6 @@ a > .hljs {
     position: -webkit-sticky;
     top: 0px;
     height: var(--menu-bar-height);
-}
-#menu-bar.bordered {
-    border-bottom-color: var(--table-border-color);
 }
 #menu-bar i, #menu-bar .icon-button {
     position: relative;
