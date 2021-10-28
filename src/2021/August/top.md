@@ -1,11 +1,48 @@
 # *August 2021*
-|**date**|||||||
-|---:|---:|---:|---:|---:|---:|---:|
-[***1st***](./1st.md)|[***2nd***](./2nd.md)|[***3rd***](./3rd.md)|[***4th***](./4th.md)|[***5th***](./5th.md)|[***6th***](./6th.md)|[***7th***](./7th.md)|
-[***8th***](./8th.md)|[***9th***](./9th.md)|[***10th***](./10th.md)|[***11th***](./11th.md)|[***12th***](./12th.md)|[***13th***](./13th.md)|[***14th***](./14th.md)|
-[***15th***](./15th.md)|[***16th***](./16th.md)|[***17th***](./17th.md)|[***18th***](./18th.md)|[***19th***](./19th.md)|[***20th***](./20th.md)|[***21st***](./21st.md)|
-[***22nd***](./22nd.md)|[***23rd***](./23rd.md)|[***24th***](./24th.md)|[***25th***](./25th.md)|[***26th***](./26th.md)|[***27th***](./27th.md)|[***28th***](./28th.md)|
-[***29th***](./29th.md)|[***30th***](./30th.md)|[***31st***](./31st.md)|
+<div class="calendar">
+  <div class="calendar_day_of_the_week">
+    <div class="calendar_day">Sun</div>
+    <div class="calendar_day">Mon</div>
+    <div class="calendar_day">Tue</div>
+    <div class="calendar_day">Wed</div>
+    <div class="calendar_day">Thu</div>
+    <div class="calendar_day">Fri</div>
+    <div class="calendar_day">Sat</div>
+  </div>
+  <div class="calendar_date">
+    <a class="link_wrapper" href="./1st.md"><div class="calendar_number">1</div></a>
+    <a class="link_wrapper" href="./2nd.md"><div class="calendar_number">2</div></a>
+    <a class="link_wrapper" href="./3rd.md"><div class="calendar_number">3</div></a>
+    <a class="link_wrapper" href="./4th.md"><div class="calendar_number">4</div></a>
+    <a class="link_wrapper" href="./5th.md"><div class="calendar_number">5</div></a>
+    <a class="link_wrapper" href="./6th.md"><div class="calendar_number">6</div></a>
+    <a class="link_wrapper" href="./7th.md"><div class="calendar_number">7</div></a>
+    <a class="link_wrapper" href="./8th.md"><div class="calendar_number">8</div></a>
+    <a class="link_wrapper" href="./9th.md"><div class="calendar_number">9</div></a>
+    <a class="link_wrapper" href="./10th.md"><div class="calendar_number">10</div></a>
+    <a class="link_wrapper" href="./11th.md"><div class="calendar_number">11</div></a>
+    <a class="link_wrapper" href="./12th.md"><div class="calendar_number">12</div></a>
+    <a class="link_wrapper" href="./13th.md"><div class="calendar_number">13</div></a>
+    <a class="link_wrapper" href="./14th.md"><div class="calendar_number">14</div></a>
+    <a class="link_wrapper" href="./15th.md"><div class="calendar_number">15</div></a>
+    <a class="link_wrapper" href="./16th.md"><div class="calendar_number">16</div></a>
+    <a class="link_wrapper" href="./17th.md"><div class="calendar_number">17</div></a>
+    <a class="link_wrapper" href="./18th.md"><div class="calendar_number">18</div></a>
+    <a class="link_wrapper" href="./19th.md"><div class="calendar_number">19</div></a>
+    <a class="link_wrapper" href="./20th.md"><div class="calendar_number">20</div></a>
+    <a class="link_wrapper" href="./21st.md"><div class="calendar_number">21</div></a>
+    <a class="link_wrapper" href="./22nd.md"><div class="calendar_number">22</div></a>
+    <a class="link_wrapper" href="./23rd.md"><div class="calendar_number">23</div></a>
+    <a class="link_wrapper" href="./24th.md"><div class="calendar_number">24</div></a>
+    <a class="link_wrapper" href="./25th.md"><div class="calendar_number">25</div></a>
+    <a class="link_wrapper" href="./26th.md"><div class="calendar_number">26</div></a>
+    <a class="link_wrapper" href="./27th.md"><div class="calendar_number">27</div></a>
+    <a class="link_wrapper" href="./28th.md"><div class="calendar_number">28</div></a>
+    <a class="link_wrapper" href="./29th.md"><div class="calendar_number">29</div></a>
+    <a class="link_wrapper" href="./30th.md"><div class="calendar_number">30</div></a>
+    <a class="link_wrapper" href="./31st.md"><div class="calendar_number">31</div></a>
+  </div>
+</div>
 
 ## Prominent Events
 - Summer Internship in the ~ lab.
