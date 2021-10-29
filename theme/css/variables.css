@@ -52,6 +52,7 @@
     --search-mark-bg: #e3b171;
 
     --calendar-hover-color: var(--bg);
+    --date_jumper-hover-color: var(--bg);
 }
 
 .coal {
@@ -96,6 +97,7 @@
     --search-mark-bg: #355c7d;
 
     --calendar-hover-color: var(--bg);
+    --date_jumper-hover-color: var(--bg);
 }
 
 .light {
@@ -141,6 +143,7 @@
     --search-mark-bg: #a2cff5;
 
     --calendar-hover-color: hsl(0, 0%, 75%);
+    --date_jumper-hover-color: hsl(0, 0%, 75%);
 }
 
 .navy {
@@ -185,6 +188,7 @@
     --search-mark-bg: #a2cff5;
 
     --calendar-hover-color: var(--bg);
+    --date_jumper-hover-color: var(--bg);
 }
 
 .rust {
@@ -230,6 +234,7 @@
     --search-mark-bg: #e69f67;
 
     --calendar-hover-color: hsl(60, 5%, 65%);
+    --date_jumper-hover-color: hsl(60, 5%, 65%);
 }
 
 @media (prefers-color-scheme: dark) {
