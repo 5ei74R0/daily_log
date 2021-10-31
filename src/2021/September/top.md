@@ -47,4 +47,4 @@
 </div>
 
 ## Prominent Events
-- Summer Internship in the ~ lab.
+- Summer Internship.
