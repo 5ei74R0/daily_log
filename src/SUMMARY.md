@@ -196,3 +196,8 @@
         - [28th](./2021/October/28th.md)
         - [29th](./2021/October/29th.md)
         - [30th](./2021/October/30th.md)
+        - [31th](./2021/October/31st.md)
+    - [November](./2021/November/top.md)
+        - [1st](./2021/November/1st.md)
+        - [2nd](./2021/November/2nd.md)
+        - [3rd](./2021/November/3rd.md)
