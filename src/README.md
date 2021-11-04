@@ -3,14 +3,15 @@
 - Written about my daily activities like the classes in Univ.; reading papers, articles, or books..
 
 ## Quick Access
-- [***2021***](./2021/top.md)
-  - [***April***](./2021/April/top.md)
-  - [***May***](./2021/May/top.md)
-  - [***June***](./2021/June/top.md)
-  - [***July***](./2021/July/top.md)
-  - [***August***](./2021/August/top.md)
-  - [***September***](./2021/September/top.md)
-  - [***October***](./2021/October/top.md)
+- [**2021**](./2021/top.md)
+  - [**April**](./2021/April/top.md)
+  - [**May**](./2021/May/top.md)
+  - [**June**](./2021/June/top.md)
+  - [**July**](./2021/July/top.md)
+  - [**August**](./2021/August/top.md)
+  - [**September**](./2021/September/top.md)
+  - [**October**](./2021/October/top.md)
+  - [**November**](./2021/November/top.md)
 
 ## How is this page generated ?
 - use **mdBook** to generate html, css, js

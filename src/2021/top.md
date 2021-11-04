@@ -38,10 +38,11 @@
 - Writing in English
 
 ## Quick Access
-- [***April***](./April/top.md)
-- [***May***](./May/top.md)
-- [***June***](./June/top.md)
-- [***July***](./July/top.md)
-- [***August***](./August/top.md)
-- [***September***](./September/top.md)
-- [***October***](./October/top.md)
+- [**April**](./April/top.md)
+- [**May**](./May/top.md)
+- [**June**](./June/top.md)
+- [**July**](./July/top.md)
+- [**August**](./August/top.md)
+- [**September**](./September/top.md)
+- [**October**](./October/top.md)
+- [**November**](./November/top.md)
