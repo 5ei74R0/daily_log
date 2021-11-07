@@ -203,3 +203,5 @@
         - [3rd](./2021/November/3rd.md)
         - [4th](./2021/November/4th.md)
         - [5th](./2021/November/5th.md)
+        - [6th](./2021/November/6th.md)
+        - [7th](./2021/November/7th.md)
