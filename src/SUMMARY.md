@@ -211,3 +211,5 @@
         - [11th](./2021/November/11th.md)
         - [12th](./2021/November/12th.md)
         - [13th](./2021/November/13th.md)
+        - [14th](./2021/November/14th.md)
+        - [15th](./2021/November/15th.md)
