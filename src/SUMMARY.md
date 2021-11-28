@@ -224,3 +224,5 @@
         - [24th](./2021/November/24th.md)
         - [25th](./2021/November/25th.md)
         - [26th](./2021/November/26th.md)
+        - [27th](./2021/November/27th.md)
+        - [28th](./2021/November/28th.md)
