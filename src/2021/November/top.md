@@ -43,5 +43,3 @@
     <a class="link_wrapper" href="./30th.md"><div class="calendar_number">30</div></a>
   </div>
 </div>
-
-## Prominent Events
