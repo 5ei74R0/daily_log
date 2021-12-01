@@ -12,6 +12,7 @@
   - [**September**](./2021/September/top.md)
   - [**October**](./2021/October/top.md)
   - [**November**](./2021/November/top.md)
+  - [**December**](./2021/December/top.md)
 
 ## How is this page generated ?
 - use **mdBook** to generate html, css, js
@@ -23,6 +24,6 @@
 - customize a little by myself  
   the patterns in the background & favicon is designed and drawn on my own  
     
-  ![my-favicon](./img_folder/favicon.png)  
+  <img src="./img_folder/favicon.png" alt="my-favicon" width="100"/>  
 
 - see [**the Project Repository**](https://github.com/OtsuKotsu/daily_log)
