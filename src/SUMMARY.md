@@ -229,3 +229,4 @@
         - [29th](./2021/November/29th.md)
         - [30th](./2021/November/30th.md)
     - [December](./2021/December/top.md)
+        - [1st](./2021/December/1st.md)
