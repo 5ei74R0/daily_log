@@ -181,7 +181,7 @@ a > .hljs {
     background: rgba( 255, 255, 255, 0.05 );
     backdrop-filter: blur( 6px );
     -webkit-backdrop-filter: blur( 6px );
-    box-shadow: 0 0 18px 0 var(--fg);
+    /* box-shadow: 0 0 18px 0 var(--fg); */
 }
 
 .next {
@@ -192,7 +192,7 @@ a > .hljs {
     background: rgba( 255, 255, 255, 0.05 );
     backdrop-filter: blur( 6px );
     -webkit-backdrop-filter: blur( 6px );
-    box-shadow: 0 0 18px 0 var(--fg);
+    /* box-shadow: 0 0 18px 0 var(--fg); */
 }
 
 @media only screen and (max-width: 1080px) {
@@ -347,8 +347,7 @@ ul#searchresults span.teaser em {
     background-repeat: repeat-y;  /* add painting */
 
     /* additional effects */
-    border: 3px solid rgba( 255, 255, 255, 0.05 );
-    border-radius: 3px;
+    border-right: 5px solid rgba( 255, 255, 255, 0.00 );
 }
 .sidebar-resizing {
     -moz-user-select: none;
