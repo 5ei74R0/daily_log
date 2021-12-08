@@ -1,4 +1,4 @@
-# *April 2021*
+# April 2021
 <div class="calendar">
   <div class="calendar_day_of_the_week">
     <div class="calendar_day">Sun</div>

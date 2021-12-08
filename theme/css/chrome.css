@@ -342,9 +342,12 @@ ul#searchresults span.teaser em {
     overscroll-behavior-y: contain;
     background-color: var(--sidebar-bg);
     color: var(--sidebar-fg);
-    background-image: url(../img_folder/bg_stardust_weak.png);  /* add painting */
     background-size: cover;
-    background-repeat: repeat-y;  /* add painting */
+    /* add painting */
+    /* background-image: url(../img_folder/bg_stardust_weak.png);
+    background-repeat: repeat-y; */
+    background-image: url(../img_folder/bg_grad.png);
+    /* background-repeat: repeat-y; */
 
     /* additional effects */
     border-right: 5px solid rgba( 255, 255, 255, 0.00 );
