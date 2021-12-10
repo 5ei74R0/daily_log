@@ -15,7 +15,7 @@ html {
 }
 
 body::before {
-    background: center / 110% repeat-y url(../img_folder/bg_grad_weak.png);
+    background: center / 110% repeat-y url(../img_folder/bg_grad.png);
     /* background: center / 110% repeat-y url(../img_folder/bg_stardust_weak.png); */
     content: "";
     display: block;
