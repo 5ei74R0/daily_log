@@ -238,3 +238,4 @@
         - [7th](./2021/December/7th.md)
         - [8th](./2021/December/8th.md)
         - [9th](./2021/December/9th.md)
+        - [10th](./2021/December/10th.md)
