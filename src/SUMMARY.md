@@ -247,3 +247,4 @@
         - [16th](./2021/December/16th.md)
         - [17th](./2021/December/17th.md)
         - [18th](./2021/December/18th.md)
+        - [19th](./2021/December/19th.md)
